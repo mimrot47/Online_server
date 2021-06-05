@@ -1,0 +1,34 @@
+
+.backgroundb{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7fbfc+0,d9edf2+48,d9edf2+51,d9edf2+55,add9e4+100 */
+	background: #f7fbfc; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f7fbfc 0%, #d9edf2 48%, #d9edf2 51%, #d9edf2 55%, #add9e4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #f7fbfc 0%,#d9edf2 48%,#d9edf2 51%,#d9edf2 55%,#add9e4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #f7fbfc 0%,#d9edf2 48%,#d9edf2 51%,#d9edf2 55%,#add9e4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fbfc', endColorstr='#add9e4',GradientType=0 ); /* IE6-9 */
+
+}.imgdeco{
+	border:0px solid black;
+	border-radius:20px; 
+	height: 80px;
+	width: 80px;
+	margin-right:70px;
+}
+.floatd{
+	float: left;
+}
+.logosname{
+	padding-top: 20px;
+	font-style: italic;
+	font-weight:40px;
+	color: white;
+	text-shadow:4px 8px 6px white;  
+
+}
+.marge{
+	margin-left: 200px;
+	font-weight:60px; 
+}
+.mybtn{
+	margin-left:400px;
+}
